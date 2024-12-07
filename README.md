@@ -42,6 +42,7 @@ A modern, responsive Role-Based Access Control system built with React, featurin
    npm install
    ```
 3. Start the development server:
+   ```bash
    npm start
    ```
 
